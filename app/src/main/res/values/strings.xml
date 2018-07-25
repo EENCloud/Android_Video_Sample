@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EagleEye_MediaPlayer</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="pass_too_short">Password too short</string>
+    <string name="auth_failed">Authentication Failure</string>
+    <string name="invalid_user_or_pass">Invalid username or password</string>
+    <string name="server_error">Server Error. Try again later</string>
+</resources>
